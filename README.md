@@ -1,2 +1,2 @@
-# icec_baidu_map
-电协官网百度地图
+# MyCDN
+主要存放一些cdn数据。
